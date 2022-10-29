@@ -14,8 +14,3 @@ class Min {
     Console.WriteLine("Smallest number is:" + min);
   }  
 
- static void Main(string[] args) {
-    Small(100, 50, 25,3);
-    Small(50, 50, 25,5);
-  }
-}
